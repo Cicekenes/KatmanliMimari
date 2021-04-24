@@ -1,0 +1,9 @@
+C:\Users\bmene\source\repos\KatmanliMimari\FACADELAYER\bin\Debug\FACADELAYER.dll
+C:\Users\bmene\source\repos\KatmanliMimari\FACADELAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\bmene\source\repos\KatmanliMimari\FACADELAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\bmene\source\repos\KatmanliMimari\FACADELAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\bmene\source\repos\KatmanliMimari\FACADELAYER\obj\Debug\FACADELAYER.csprojAssemblyReference.cache
+C:\Users\bmene\source\repos\KatmanliMimari\FACADELAYER\obj\Debug\FACADELAYER.csproj.CoreCompileInputs.cache
+C:\Users\bmene\source\repos\KatmanliMimari\FACADELAYER\obj\Debug\FACADELAYER.csproj.CopyComplete
+C:\Users\bmene\source\repos\KatmanliMimari\FACADELAYER\obj\Debug\FACADELAYER.dll
+C:\Users\bmene\source\repos\KatmanliMimari\FACADELAYER\obj\Debug\FACADELAYER.pdb
